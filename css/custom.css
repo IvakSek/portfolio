@@ -1,0 +1,144 @@
+/* Navigation */
+
+nav {
+	background-color: black; /*rgba(23, 83, 70, 100);*/
+	opacity: 0.8;
+	padding:2rem 0rem 0rem 0rem;
+	position: fixed;
+	text-align: center;
+	max-width: 960px;
+	width: 100%
+
+}
+nav ul li {
+	display: inline;
+	margin: 0 0 0 0 ;
+}
+
+nav ul li {
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.0rem;
+	text-transform: uppercase;
+	letter-spacing: 1.0rem;
+	color: white;
+	opacity: 1;
+}
+
+/* Page Setup */
+
+body {
+	background-color: rgba(191,195,195,100) ;
+	font-family: "Avenir Next";
+}
+
+#banner1 /*[Naviation Buffer]*/ {
+	padding: 15rem 0rem 20rem 0rem;
+}
+
+.value /*[Columns] */ {
+	padding: 0rem 0rem 0rem 0rem;
+	text-align: align; 
+	background-size: cover;
+}
+
+.section /*[Banner 2 + 4]*/{
+	padding: 0rem 0rem 0rem 0rem;
+	text-align: center;
+	background-size: cover;
+}
+
+/* Banner 1 */
+
+	#banner1 {
+		background-image: url("../images/forest.png");
+	}
+
+
+	h4 /*Quotes*/{
+		font-size: 1.8rem;
+		color: black;
+		padding: 0rem 5rem 0rem 5rem;
+	}
+
+
+/*Banner 2*/
+
+	img /*Icon Dimensions*/{
+		width: 150px;
+		height: 150px;
+	}
+
+	h3, a /*Icon Titles*/{
+		padding: 2rem 0rem 2rem 0rem;
+		font-size: 1.6rem;
+		color: white;
+		text-decoration: none;
+	}
+
+	#banner2{
+		background-color: rgba(10,10,10,100);
+		padding: 7rem 0rem 3rem 0rem;
+	}
+
+	
+
+/*Banner 3*/
+
+	#banner3 {
+		background-image: url("../images/citylights.png");
+		padding: 17rem 0rem 15rem 5rem;
+	}
+
+	#banner3 h4 {
+		color: white;	
+	}
+
+/*Banner 4*/
+
+	#banner4 {
+		background-color: rgba(10,10,10,100);
+		padding: 5rem 0rem 0rem 0rem;
+	}
+
+
+/*Banner 5*/
+
+	#banner5 {
+		background-color:rgba(10,10,10,100);
+		border-top: 1pt dashed grey;
+	}
+	#banner5 h4 {
+		color: grey;
+		padding: 5rem 0rem 2rem 0rem}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
